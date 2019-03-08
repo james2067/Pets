@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\bin\Debug\PetsChallenge.exe.config
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\bin\Debug\PetsChallenge.exe
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\bin\Debug\PetsChallenge.pdb
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\obj\Debug\PetsChallenge.csprojAssemblyReference.cache
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\obj\Debug\PetsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\obj\Debug\PetsChallenge.exe
+C:\Users\james\source\repos\PetsChallenge\PetsChallenge\obj\Debug\PetsChallenge.pdb
